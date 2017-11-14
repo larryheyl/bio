@@ -25,4 +25,4 @@ Even though I'm old I'm still stuck on go. So I'm using this bio page to try to 
 * [Delta Legends](http://deltalegends.com)
 * [NJHB](http://njhb.org)
 
-<iframe>http://feeds.feedburner.com/sbblues/sb </iframe>
+<iframe src="http://feeds.feedburner.com/sbblues/sb"> </iframe>
