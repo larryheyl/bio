@@ -4,6 +4,8 @@ I'm a retired computer consultant. Now a composition major at Arkansas State Uni
 
 Even though I'm old I'm still stuck on go. So I'm using this bio page to try to keep up with myself.
 
+#### Links
+
 * [HairyLarryLand](http://hairylarryland.com)
 * [SFF Short Stories](http://sffshortstories.com/)
 * [Something Blue](http://sbblues.com)
@@ -12,6 +14,7 @@ Even though I'm old I'm still stuck on go. So I'm using this bio page to try to 
 
 * [Delta Boogie](http://deltaboogie.com)
 * [Delta Boogie Network](http://deltaboogie.net)
+* [Delta Boogie Tumblr](http://deltaboogie.tumblr.com)
 
 ---
 I'm leaving this info her for now until I learn Markdown.
