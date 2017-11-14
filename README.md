@@ -16,6 +16,12 @@ Even though I'm old I'm still stuck on go. So I'm using this bio page to try to 
 * [Delta Boogie Network](http://deltaboogie.net)
 * [Delta Boogie Tumblr](http://deltaboogie.tumblr.com)
 
+#### Bands
+
+* [Bebop Beatniks](http://bebopbeatniks.com)
+* [Delta Legends](http://deltalegends.com)
+* [NJHB](http://njhb.org)
+
 ---
 I'm leaving this info her for now until I learn Markdown.
 
