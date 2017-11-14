@@ -1,4 +1,4 @@
-### Larry Heyl
+## Larry Heyl
 
 I'm a retired computer consultant. Now a composition major at Arkansas State University. I write and play jazz.
 
