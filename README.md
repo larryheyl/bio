@@ -6,6 +6,12 @@ Even though I'm old I'm still stuck on go. So I'm using this bio page to try to 
 
 * [HairyLarryLand](http://hairylarryland.com)
 * [SFF Short Stories](http://sffshortstories.com/)
+* [Something Blue](http://sbblues.com)
+
+#### Delta Boogie
+
+* [Delta Boogie](http://deltaboogie.com)
+* [Delta Boogie Network](http://deltaboogie.net)
 
 ---
 I'm leaving this info her for now until I learn Markdown.
