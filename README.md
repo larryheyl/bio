@@ -16,11 +16,11 @@ Even though I'm old I'm still stuck on go. So I'm using this bio page to try to 
 * [Delta Boogie Network](http://deltaboogie.net)
 * [Delta Boogie Tumblr](http://deltaboogie.tumblr.com)
 * [21st Century Jazz Composers](http://21centjazz.com)
+* {Larry Donn](http://larrydonn.com)
+* [Matt Lucas Music](http://mattlucasmusic.com/)
 
 #### Bands
 
 * [Bebop Beatniks](http://bebopbeatniks.com)
 * [Delta Legends](http://deltalegends.com)
 * [NJHB](http://njhb.org)
-
-
