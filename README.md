@@ -25,6 +25,3 @@ Even though I'm old I'm still stuck on go. So I'm using this bio page to try to 
 * [Delta Legends](http://deltalegends.com)
 * [NJHB](http://njhb.org)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen>
-
-</iframe>
