@@ -1,6 +1,11 @@
+# Larry Heyl
+
 I'm a retired computer consultant. Now a composition major at Arkansas State University. I write and play jazz.
 
 Even though I'm old I'm still stuck on go. So I'm using this bio page to try to keep up with myself.
+
+[HairyLarryLand](http://hairylarryland.com)
+[SFF Short Stories](http://sffshortstories.com/)
 
 ---
 I'm leaving this info her for now until I learn Markdown.
