@@ -1,3 +1,7 @@
+Larry Heyl aka Hairy Larry, links and projects.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/larryheyl/bio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
